@@ -12,7 +12,7 @@ function Example() {
 
   const news = useEndpont({
       method: 'GET',
-      url: 'https://newsapi.org/v2/everything?q=bitcoin&apiKey=69a18fbdc32b41bdaba92fb40f0ed840'
+      url: 'https://newsapi.org/v2/everything?q=bitcoin&apiKey=access-key'
   })
 
   return (
